@@ -10,7 +10,7 @@ My goal is to master development and cybersecurity to create impactful and scala
 - 🎯 Ambition: To develop innovative systems and projects that can scale
 
 ## 📁 Projects
-*(Projects will be added soon — stay tuned!)*
+- todolist.py (work in progress, this is a script that I started tonight to master python basics. Now, I will add the possibility to say that a task is completed, to delete a task and save the todolist in a *.txt file)
 
 ## 📫 Contact
 - GitHub: [@DavidCataluddi](https://github.com/DavidCataluddi)
